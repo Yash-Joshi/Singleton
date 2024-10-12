@@ -1,0 +1,15 @@
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.deps.json
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.runtimeconfig.json
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/bin/Debug/net8.0/PrivateConstructor.pdb
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.AssemblyInfoInputs.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.AssemblyInfo.cs
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.csproj.CoreCompileInputs.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.sourcelink.json
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/refint/PrivateConstructor.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.pdb
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/PrivateConstructor.genruntimeconfig.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/PrivateConstructor/obj/Debug/net8.0/ref/PrivateConstructor.dll
