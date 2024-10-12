@@ -1,0 +1,15 @@
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/bin/Debug/net8.0/SingleObjectCreation
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/bin/Debug/net8.0/SingleObjectCreation.deps.json
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/bin/Debug/net8.0/SingleObjectCreation.runtimeconfig.json
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/bin/Debug/net8.0/SingleObjectCreation.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/bin/Debug/net8.0/SingleObjectCreation.pdb
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.AssemblyInfoInputs.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.AssemblyInfo.cs
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.csproj.CoreCompileInputs.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.sourcelink.json
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/refint/SingleObjectCreation.dll
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.pdb
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/SingleObjectCreation.genruntimeconfig.cache
+/Users/yashjoshi/Yash/Singleton/Singleton/SingleObjectCreation/obj/Debug/net8.0/ref/SingleObjectCreation.dll
